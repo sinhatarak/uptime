@@ -31,17 +31,6 @@
 - watchmen provides **custom actions through plugins** (console outpug, email notifications, etc).
 - the code base aims to be simple and easy to understand and modify.
 
-## Screenshots
-
-![watchmen, service details](https://github.com/iloire/watchmen/raw/master/screenshots/watchmen-details-mobile-01.png)
-
-![watchmen, service list](https://github.com/iloire/watchmen/raw/master/screenshots/watchmen-list-mobile-01.png)
-
-![watchmen, add service](https://github.com/iloire/watchmen/raw/master/screenshots/watchmen-add.png)
-
-![watchmen, list services](https://github.com/iloire/watchmen/raw/master/screenshots/watchmen-list-wide-01.png)
-
-
 ## Installation
 
 ### Requirements
